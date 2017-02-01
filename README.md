@@ -1,1 +1,2 @@
 # socialmedia
+Requires ImageMagick.
